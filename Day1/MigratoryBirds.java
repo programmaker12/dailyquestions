@@ -1,3 +1,32 @@
+/*
+ *                 Migratory Birds
+ *    Problem Statement -: 
+ *    You	have been	asked	to help	study	the	population of	birds	migrating	across the continent.	
+ *    You	have	been	asked	to	help	study	the	population	of	birds	migrating	across	the	
+ *     continent.	
+ *    Each	type	of	bird	you	are	interested	in	will	be	identified	by	an	integer	value.
+ *    You	would	like	to	be	able	to	find	out	which	type	of	bird	is	most	common	given	a	
+ *    list of	sightings.
+ *    Your	task	is	to	print	the	type	number	of	that	bird	and	if	two	or	more	types	of	
+ *    birds	are	equally	common,	choose	the	type	with	the	smallest	ID	number.
+ * 
+ *               
+ *           
+ *    INPUT	FORMAT
+ *    The	first	line	contains	an	integer	denoting ’n’,	
+ *    The	number	of	birds	sighted	and	reported in	the	array	arr .
+ *    The	second	line	describes are as ’n’ space-separated	integers representing	the	type numbers of	
+ *     each	bird	sighted.
+ *      
+ *
+ *    OUTPUT	FORMAT
+ *    Print	the	type	number	of	the	most	common	bird.
+ *    If two or	more types of birds	are	equally	common,	choose	the	type with the	smallest	ID	number
+ *    Constraints:
+ *    Length of string <=10^6
+ *    
+ *   
+ */
 package Day1;
 import java.util.Scanner;
 import java.util.*;
