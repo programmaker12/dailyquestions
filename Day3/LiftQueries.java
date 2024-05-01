@@ -17,7 +17,6 @@
  *     lower floor comes up.
  *     
  *     
- *     INPUT AND OUTPUT
  *                      INPUT
  *      First line contains a integer T denoting the number of test cases.
  *      Next T lines contains a single integer N denoting the floor from which lift is 
