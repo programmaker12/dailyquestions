@@ -1,3 +1,12 @@
+/*
+                         Jumble Words
+ Two words are given. Jumble the words and make a new word. Jumble the word in a pattern and remember it. 
+
+ _Input_ :
+  Two strings
+  _Output_ :
+  Print the jumble word
+*/
 package Day5;
 import java.util.Scanner;
 public class JumbleWords {
