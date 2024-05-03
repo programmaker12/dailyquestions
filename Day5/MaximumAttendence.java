@@ -38,6 +38,7 @@ static int MaximumAttendence(int n, String records[])
 		System.out.println("Please enter the number of days");
 		int m = sc.nextInt();
 		String [] records = new String [m];
+		System.out.println("Please enter the records");
 		for (int i = 0; i < records.length; i++) {
 			records[i] = sc.next();
 		}
