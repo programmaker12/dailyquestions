@@ -2,9 +2,9 @@
                          Jumble Words
  Two words are given. Jumble the words and make a new word. Jumble the word in a pattern and remember it. 
 
- _Input_ :
+ **Input** :
   Two strings
-  _Output_ :
+  **Output** :
   Print the jumble word
 */
 package Day5;
