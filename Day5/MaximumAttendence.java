@@ -1,3 +1,15 @@
+/*
+                      Maximum Attendence
+ The number of students of a class and number of school days are given. You have to find maximum number of consecutive days in which all students are present.
+
+ Input:
+  n : number of students
+  m : number of days
+  records[i] : An array which contain the record of attendance of all students in a ith day.
+Output:
+ Print the maximum number of consecutive days in which all students are present.
+
+*/
 package Day5;
 import java.util.Scanner;
 public class MaximumAttendence {
